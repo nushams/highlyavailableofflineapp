@@ -9,7 +9,7 @@ This project involves developing a multi-tenant point-of-sale (POS) software sol
 - **Offline Functionality**: Supports offline operations and synchronizes with the cloud when back online.
 
 ## Solution Description
-![image](https://github.com/nushams/highlyavailableofflineapp/assets/109551022/542014bb-f739-41fe-a01e-3f3845155021)
+![image](./docs/architecture.png)
 
 ### Architecture Components
 
